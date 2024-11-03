@@ -1,6 +1,6 @@
 baseURL = "https://mywebsite-shiyuan.vercel.app"
 languageCode = "en-us"
-title = "Hugo-SY"
+title = "李诗苑：Shiyuan Li"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
