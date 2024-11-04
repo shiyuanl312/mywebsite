@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Hugo-HT</title>
+    <title>Home on 李诗苑：Shiyuan Li</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Hugo-HT</description>
+    <description>Recent content in Home on 李诗苑：Shiyuan Li</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Nov 2024 17:28:10 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2024 11 03 a New Post</title>
-      <link>http://localhost:1313/en/2024/11/03/2024-11-03-a-new-post/</link>
+      <title>my travel in Japan</title>
+      <link>http://localhost:1313/cn/2024/11/03/my-first-post/</link>
       <pubDate>Sun, 03 Nov 2024 17:28:10 +0800</pubDate>
-      <guid>http://localhost:1313/en/2024/11/03/2024-11-03-a-new-post/</guid>
-      <description></description>
+      <guid>http://localhost:1313/cn/2024/11/03/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;the-travel-preparation-for-japan&#34;&gt;The travel preparation for Japan&lt;/h1&gt;&#xA;&lt;p&gt;布鲁布鲁&lt;/p&gt;</description>
     </item>
     <item>
-      <title>2024 11 03 a New Post</title>
-      <link>http://localhost:1313/cn/2024/11/03/2024-11-03-a-new-post/</link>
-      <pubDate>Sun, 03 Nov 2024 17:10:37 +0800</pubDate>
-      <guid>http://localhost:1313/cn/2024/11/03/2024-11-03-a-new-post/</guid>
-      <description></description>
+      <title>My travel in Japan</title>
+      <link>http://localhost:1313/en/2024/11/03/my-travel-in-japan/</link>
+      <pubDate>Sun, 03 Nov 2024 17:28:10 +0800</pubDate>
+      <guid>http://localhost:1313/en/2024/11/03/my-travel-in-japan/</guid>
+      <description>&lt;h1 id=&#34;my-travel-in-japan&#34;&gt;My travel in Japan&lt;/h1&gt;&#xA;&lt;h2 id=&#34;1preparation&#34;&gt;1.Preparation&lt;/h2&gt;&#xA;&lt;h2 id=&#34;2&#34;&gt;2.&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Markdown 试水</title>
