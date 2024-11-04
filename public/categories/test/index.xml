@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Test on 李诗苑：Shiyuan Li</title><link>https://mywebsite-shiyuan.vercel.app/categories/test/</link><description>Recent content in Test on 李诗苑：Shiyuan Li</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 03 Nov 2024 17:28:10 +0800</lastBuildDate><atom:link href="https://mywebsite-shiyuan.vercel.app/categories/test/index.xml" rel="self" type="application/rss+xml"/><item><title>my travel in Japan</title><link>https://mywebsite-shiyuan.vercel.app/cn/2024/11/03/my-first-post/</link><pubDate>Sun, 03 Nov 2024 17:28:10 +0800</pubDate><guid>https://mywebsite-shiyuan.vercel.app/cn/2024/11/03/my-first-post/</guid><description>&lt;h1 id="the-travel-preparation-for-japan">The travel preparation for Japan&lt;/h1>
+&lt;p>布鲁布鲁&lt;/p></description></item><item><title>My travel in Japan</title><link>https://mywebsite-shiyuan.vercel.app/en/2024/11/03/my-travel-in-japan/</link><pubDate>Sun, 03 Nov 2024 17:28:10 +0800</pubDate><guid>https://mywebsite-shiyuan.vercel.app/en/2024/11/03/my-travel-in-japan/</guid><description>&lt;h1 id="my-travel-in-japan">My travel in Japan&lt;/h1>
+&lt;h2 id="1preparation">1.Preparation&lt;/h2>
+&lt;h2 id="2">2.&lt;/h2></description></item><item><title>Markdown 试水</title><link>https://mywebsite-shiyuan.vercel.app/cn/2021/01/07/first-post-cn/</link><pubDate>Thu, 07 Jan 2021 13:42:27 -0500</pubDate><guid>https://mywebsite-shiyuan.vercel.app/cn/2021/01/07/first-post-cn/</guid><description>&lt;h1 id="第一级标题">第一级标题&lt;/h1>
+&lt;h2 id="第二级标题">第二级标题&lt;/h2>
+&lt;h3 id="第三级标题">第三级标题&lt;/h3>
+&lt;h4 id="第四级标题">第四级标题&lt;/h4>
+&lt;h5 id="第五级标题">第五级标题&lt;/h5>
+&lt;h6 id="第六级标题">第六级标题&lt;/h6>
+&lt;h2 id="列表">列表&lt;/h2>
+&lt;ul>
+&lt;li>Water&lt;/li>
+&lt;li>Water&lt;/li>
+&lt;li>Water
+&lt;ol>
+&lt;li>Water&lt;/li>
+&lt;li>Water&lt;/li>
+&lt;li>Water&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Water
+&lt;ul>
+&lt;li>Water&lt;/li>
+&lt;li>Water&lt;/li>
+&lt;li>Water
+&lt;ol>
+&lt;li>Water&lt;/li>
+&lt;li>Water&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="表格">表格&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Water&lt;/th>
+ &lt;th>&lt;em>Water&lt;/em>&lt;/th>
+ &lt;th>Water&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Water&lt;/td>
+ &lt;td>Water&lt;/td>
+ &lt;td>Water&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Water&lt;/strong>&lt;/td>
+ &lt;td>Water&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/td>
+ &lt;td>Water&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Water&lt;/td>
+ &lt;td>Water&lt;/td>
+ &lt;td>Water&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="引语">引语&lt;/h2>
+&lt;blockquote>
+&lt;p>知之为知之，不知为不知，是知也&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>。 — 孔子&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="数学公式">数学公式&lt;/h2>
+&lt;p>最简单的如，&lt;code>$1 + 1 = 3$&lt;/code>&lt;/p>
+&lt;p>你可以加入索引:&lt;/p>
+&lt;p>&lt;code>$$p(x) = \frac{1}{\sigma \sqrt{2 \pi}} exp \left(-\frac{1}{2}\left[\frac{x-\mu}{\sigma}\right]^2\right)\tag{1.1}\label{eq1.1}$$&lt;/code>&lt;/p>
+&lt;p>多行&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup>,&lt;/p>
+&lt;p>&lt;code>\begin{align} \sqrt{37} &amp;amp; = \sqrt{\frac{73^2-1}{12^2}} \\ &amp;amp; = \sqrt{\frac{73^2}{12^2}\cdot\frac{73^2-1}{73^2}} \\ &amp;amp; = \sqrt{\frac{73^2}{12^2}}\sqrt{\frac{73^2-1}{73^2}} \\ &amp;amp; = \frac{73}{12}\sqrt{1 - \frac{1}{73^2}} \\ &amp;amp; \approx \frac{73}{12}\left(1 - \frac{1}{2\cdot73^2}\right) \end{align}&lt;/code>&lt;/p></description></item><item><title>Markdown Testing</title><link>https://mywebsite-shiyuan.vercel.app/en/2021/01/07/second-post/</link><pubDate>Thu, 07 Jan 2021 13:37:57 -0500</pubDate><guid>https://mywebsite-shiyuan.vercel.app/en/2021/01/07/second-post/</guid><description>&lt;h1 id="h1">H1&lt;/h1>
+&lt;h2 id="h2">H2&lt;/h2>
+&lt;h3 id="h3">H3&lt;/h3>
+&lt;h4 id="h4">H4&lt;/h4>
+&lt;h5 id="h5">H5&lt;/h5>
+&lt;h6 id="h6">H6&lt;/h6>
+&lt;h2 id="list">List&lt;/h2>
+&lt;ul>
+&lt;li>Water&lt;/li>
+&lt;li>Water&lt;/li>
+&lt;li>Water
+&lt;ol>
+&lt;li>Water&lt;/li>
+&lt;li>Water&lt;/li>
+&lt;li>Water&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Water
+&lt;ul>
+&lt;li>Water&lt;/li>
+&lt;li>Water&lt;/li>
+&lt;li>Water
+&lt;ol>
+&lt;li>Water&lt;/li>
+&lt;li>Water&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="table">Table&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Water&lt;/th>
+ &lt;th>&lt;em>Water&lt;/em>&lt;/th>
+ &lt;th>Water&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Water&lt;/td>
+ &lt;td>Water&lt;/td>
+ &lt;td>Water&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&lt;strong>Water&lt;/strong>&lt;/td>
+ &lt;td>Water&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/td>
+ &lt;td>Water&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Water&lt;/td>
+ &lt;td>Water&lt;/td>
+ &lt;td>Water&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="quotes">Quotes&lt;/h2>
+&lt;blockquote>
+&lt;p>What I cannot create, I do not understand&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>. — Richard Feynman&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>For example,&lt;/p>
+&lt;p>&lt;code>$1 + 1 = 3$&lt;/code>&lt;/p>
+&lt;p>You can add Tags &amp;amp; References:&lt;/p>
+&lt;p>&lt;code>$$p(x) = \frac{1}{\sigma \sqrt{2 \pi}} exp \left(-\frac{1}{2}\left[\frac{x-\mu}{\sigma}\right]^2\right)\tag{1.1}\label{eq1.1}$$&lt;/code>&lt;/p>
+&lt;p>Aligning equations&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> are also possible,&lt;/p></description></item><item><title>The Road Not Taken</title><link>https://mywebsite-shiyuan.vercel.app/en/1915/01/01/road-not-taken/</link><pubDate>Fri, 01 Jan 1915 00:00:00 +0000</pubDate><guid>https://mywebsite-shiyuan.vercel.app/en/1915/01/01/road-not-taken/</guid><description>&lt;p>Two roads diverged in a yellow wood,&lt;br>
+And sorry I could not travel both&lt;br>
+And be one traveler, long I stood&lt;br>
+And looked down one as far as I could&lt;br>
+To where it bent in the undergrowth;&lt;/p>
+&lt;p>Then took the other, as just as fair,&lt;br>
+And having perhaps the better claim,&lt;br>
+Because it was grassy and wanted wear;&lt;br>
+Though as for that the passing there&lt;br>
+Had worn them really about the same,&lt;/p></description></item></channel></rss>
