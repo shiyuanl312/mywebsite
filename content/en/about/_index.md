@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 type : list-single
 ---
 
-## Albert Einstein
+## 
 
 Institute for Advanced Study\
 Einstein Drive/
